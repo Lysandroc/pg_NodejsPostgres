@@ -6,7 +6,9 @@ Foi utilizado o node.js e postgres.
 npm install
 >
 # Declarar a string de conexao na variavel de ambiente
-export DATABASE_URL="stringConexaoAqui" ou set DATABASE_URL="stringConexaoAqui"
+(LINUX) export DATABASE_URL="stringConexaoAqui" 
+>
+(WINDOWS)set DATABASE_URL="stringConexaoAqui"
 >
 ## Metodos HTTP
 >
