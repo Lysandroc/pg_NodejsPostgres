@@ -1,14 +1,14 @@
-Criando um crud restful
+#Criando um crud restful
 ---------------------
 >
 Foi utilizado o node.js e postgres.
 >
-npm install
+### npm install
 >
-# Declarar a string de conexao na variavel de ambiente
-(LINUX) export DATABASE_URL="stringConexaoAqui" 
+## Declarar a string de conexao na variavel de ambiente
+### (LINUX) export DATABASE_URL="stringConexaoAqui" 
 >
-(WINDOWS)set DATABASE_URL="stringConexaoAqui"
+### (WINDOWS) set DATABASE_URL="stringConexaoAqui"
 >
 ## Metodos HTTP
 >
